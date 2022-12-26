@@ -1,7 +1,7 @@
 {
-  "name": "@frankda/eslint-config",
+  "name": "@my-username/eslint-config",
   "version": "0.1.0",
-  "description": "",
+  "description": "Predefined rules for nextjs projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,17 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">=7.17.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankda/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frankda/eslint-config/issues"
+  },
+  "homepage": "https://github.com/frankda/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4"
   }
 }
