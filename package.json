@@ -1,0 +1,15 @@
+{
+  "name": "@frankda/eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FrankDa",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=7.17.0"
+  }
+}
