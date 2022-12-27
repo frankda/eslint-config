@@ -1,6 +1,6 @@
 {
   "name": "@frank.da/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Predefined rules for nextjs projects",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/frankda/eslint-config/issues"
   },
-  "homepage": "https://github.com/frankda/eslint-config#readme",
-  "dependencies": {
-    "eslint-config-airbnb": "^19.0.4"
-  }
+  "homepage": "https://github.com/frankda/eslint-config#readme"
 }
